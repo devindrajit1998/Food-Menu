@@ -10,7 +10,7 @@ export default function TopMenu({ filterMenu, newNavList }) {
             
               <button
                 type="button"
-                class="btn btn-danger my-3 mx-3 "
+                class="btn btn-danger my-3 mx-3 navbtn"
                 onClick={() => filterMenu(cate)}
               >
                 {cate}

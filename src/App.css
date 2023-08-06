@@ -9,7 +9,8 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
-    
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
     
 }
 
@@ -100,8 +101,20 @@ body{
     }
   }
 
+  /* cart btn  */
+  
   /* top menu  */
   .top_menu{
        padding: 5px 10px;
   }
   
+
+  .card-title{
+    text-transform: uppercase;
+  }
+  .text-muted{
+    text-transform: uppercase;
+  }
+  .navbtn{
+    text-transform: uppercase;
+  }
